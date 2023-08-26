@@ -18,7 +18,7 @@ function Collection({ name, images }) {
 function App() {
   return (
     <div className="App">
-      <h1>Моя коллекция фотографий</h1>
+      <h1>Моя коллекция фотографий 123</h1>
       <div className="top">
         <ul className="tags">
           <li className="active">Все</li>
